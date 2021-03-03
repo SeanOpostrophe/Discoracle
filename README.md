@@ -1,0 +1,2 @@
+# Discoracle
+ trap generator
